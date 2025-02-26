@@ -749,3 +749,15 @@
 2/25/2025 | 8:20:43 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
 2/25/2025 | 8:21:05 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x11","from":"0x7f394c047304c1c1735bc8e67080bbe2261c0eca","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 2/25/2025 | 8:21:05 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+2/26/2025 | 1:25:21 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/26/2025 | 1:25:21 AM | INFO | Start process for wallet 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+2/26/2025 | 1:25:21 AM | INFO | Trying To Login for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+2/26/2025 | 1:25:22 AM | INFO | Login successful... 
+2/26/2025 | 1:25:22 AM | INFO | Trying to check user info... 
+2/26/2025 | 1:25:23 AM | INFO | User ID: 103283756 | Twitter: @zairamelinda | Total Points: 288000 
+2/26/2025 | 1:25:23 AM | INFO | Trying to check user miner status... 
+2/26/2025 | 1:25:24 AM | INFO | Last mining time: 2/24/2025, 8:21:09 PM
+2/26/2025 | 1:25:24 AM | INFO | Trying to start Mining for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+2/26/2025 | 1:25:25 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+2/26/2025 | 1:25:25 AM | INFO | Trying to activate mining on-chain for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+2/26/2025 | 1:25:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x36505f3dbc9c77bdd54518597ca98c095a4fbf9213b4377762a5b233b22f79f1 
