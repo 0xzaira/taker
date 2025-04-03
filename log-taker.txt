@@ -2717,3 +2717,15 @@
 4/2/2025 | 8:22:20 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:22:24 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:22:24 PM | ERROR | Failed to retrieve nonce for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/3/2025 | 1:37:58 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:37:58 AM | INFO | Start process for wallet 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/3/2025 | 1:37:59 AM | INFO | Trying To Login for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/3/2025 | 1:38:00 AM | INFO | Login successful... 
+4/3/2025 | 1:38:00 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:38:01 AM | INFO | User ID: 103283756 | Twitter: @zairamelinda | Total Points: 1008000 
+4/3/2025 | 1:38:01 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:38:01 AM | INFO | Last mining time: 4/1/2025, 12:41:21 PM
+4/3/2025 | 1:38:01 AM | INFO | Trying to start Mining for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/3/2025 | 1:38:02 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:38:02 AM | INFO | Trying to activate mining on-chain for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/3/2025 | 1:38:14 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xe998ffe1d4e4d41416313600f340667e96c153836fb18e4df38cf3b2c148dfdd 
