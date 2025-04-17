@@ -3564,3 +3564,12 @@
 4/17/2025 | 4:26:08 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
 4/17/2025 | 4:26:17 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
 4/17/2025 | 4:26:17 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:21:33 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:21:33 PM | INFO | Start process for wallet 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/17/2025 | 8:21:34 PM | INFO | Trying To Login for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+4/17/2025 | 8:21:35 PM | INFO | Login successful... 
+4/17/2025 | 8:21:35 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:21:35 PM | INFO | User ID: 103283756 | Twitter: @zairamelinda | Total Points: 1368000 
+4/17/2025 | 8:21:35 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:21:38 PM | INFO | Last mining time: 4/17/2025, 12:40:21 PM
+4/17/2025 | 8:21:38 PM | WARN | Mining already started, next mining time is: 4/18/2025, 12:40:21 PM
