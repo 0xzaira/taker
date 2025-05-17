@@ -5277,3 +5277,12 @@
 5/17/2025 | 4:23:56 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/17/2025 | 4:23:56 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
 5/17/2025 | 4:24:08 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf94fce2fb4cbd28fc85a6770a8d929e39ebfd1ce63735954ae12471c19ea5472 
+5/17/2025 | 8:20:54 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/17/2025 | 8:20:54 PM | INFO | Start process for wallet 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+5/17/2025 | 8:20:54 PM | INFO | Trying To Login for wallet: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa 
+5/17/2025 | 8:20:55 PM | INFO | Login successful... 
+5/17/2025 | 8:20:55 PM | INFO | Trying to check user info... 
+5/17/2025 | 8:20:56 PM | INFO | User ID: 103283756 | Twitter: @zairamelinda | Total Points: 1992000 
+5/17/2025 | 8:20:56 PM | INFO | Trying to check user miner status... 
+5/17/2025 | 8:20:57 PM | INFO | Last mining time: 5/17/2025, 4:24:03 PM
+5/17/2025 | 8:20:57 PM | WARN | Mining already started, next mining time is: 5/18/2025, 4:24:03 PM
